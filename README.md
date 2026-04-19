@@ -42,7 +42,7 @@ StyleHub/
 ├── frontend/ # React frontend
 ├── backend/ # Node.js backend
 │ ├── models/ # MongoDB models
-│ └── routes/ # API routes (if added)
+│ └── routes/ # API routes 
 │
 ├── package.json
 └── README.md
